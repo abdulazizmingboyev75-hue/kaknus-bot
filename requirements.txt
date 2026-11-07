@@ -1,5 +1,4 @@
-flask
-aiogram
-python-dotenv
-aiohttp
-requests
+flask==3.0.0
+aiogram==3.4.1
+python-dotenv==1.0.0
+aiohttp==3.9.1
